@@ -36,7 +36,7 @@ public class Calculator
         System.out.println("Error! The Entered Operatoe is Incorrect... Try Again");
         return;          
     } 
-
+    //Printing the result of the operations
     System.out.printf("%.1f %c %.1f = %.1f",first,operator,second,result);
 }
 }
